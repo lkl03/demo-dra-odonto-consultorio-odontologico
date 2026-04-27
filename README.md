@@ -1,2 +1,7 @@
-# demo-dra-odonto-consultorio-odontologico
-Demo web para Dra Odonto Consultorio Odontologico — diseñada por eterlab.
+# Dra Odonto Consultorio Odontologico
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
